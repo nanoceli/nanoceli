@@ -13,9 +13,9 @@ JavaScript (ES6)
 -- Redux 
 -- BootStrap 
 -- SASS
+-- React Native
 
 <h4>By Back-end ✨</h4>
-JavaScript (ES6)
 -- PostgreSQL 
 -- Sequelize ORM 
 -- Node.js
