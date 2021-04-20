@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ... Python and R, React-Native.
 
-- 📫 How to reach me ... https://www.linkedin.com/in/marianoalejandroceli/
+- 📫 How to reach me ... https://www.linkedin.com/in/marianoalejandroceli/ && Marianoalejandroceli@gmail.com
 
 <h3>Languages</h3>
 <h4>By Front-end ✨</h4>
