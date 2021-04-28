@@ -21,6 +21,7 @@ JavaScript (ES6)
 -- Node.js
 -- Express.js 
 -- GraphQL
+-- Supabase
 
 <!---
 nanoceli/nanoceli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
