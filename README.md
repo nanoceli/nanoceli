@@ -23,7 +23,7 @@ JavaScript (ES6)
 -- GraphQL
 -- Supabase
 
-Other Skills💪🏼
+<h4>Other Skills💪</h>
 -- GIT 
 -- SCRUM 
 -- Trello 
