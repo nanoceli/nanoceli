@@ -13,11 +13,7 @@ leader, managing to optimize projects and good teamwork.</h4>
 
 <h3>Languages</h3>
 <h4>By Front-end ✨</h4>
-<<<<<<< HEAD
 <p>-- JavaScript (ES6) <img alt="PostgreSQL" src="https://raw.githubusercontent.com/nanoceli/nanoceli/main/logos//postgresql.svg" height="60" width="48" ></p>
-=======
-<p>-- JavaScript (ES6) <img  width="40px" heigth="40px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></p>
->>>>>>> ee4232b907dee35d45dd3f6d7c5a42ed69475e21
 <p>-- HTML5 <img width="40px" heigth="40px" src="nanoceli\images\html5.svg"></p>
 <p>-- CSS3 <img width="40px" heigth="40px" src="nanoceli\images\css-5.svg"></p>
 <p>-- React <img width="40px" heigth="40px" src="nanoceli\images\react-2.svg"></p>
@@ -27,7 +23,7 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>-- React Native <img width="40px" heigth="40px" src="nanoceli\images\react-native-app.svg"></p>
 
 <h4>By Back-end ✨</h4>
-<p>-- PostgreSQL <img alt="PostgreSQL" src="https://raw.githubusercontent.com/nanoceli/nanoceli/main/logos/postgresql.svg" height="60" width="48" > </p>
+<p>-- PostgreSQL <img alt="PostgreSQL" src="https://github.com/nanoceli/nanoceli/blob/main/images/postgresql.svg" height="60" width="48" > </p>
 <p>-- Sequelize ORM <img width="40px" heigth="40px" src="nanoceli\images\sequelize.svg"> </p>
 <p>-- Node.js <img width="40px" heigth="40px" src="nanoceli\images\nodejs-icon.svg"></p>
 <p>-- Express.js <img width="40px" heigth="40px" src="https://worldvectorlogo.com/es/logo/linkedin-icon-2">  </p>
