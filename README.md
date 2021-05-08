@@ -8,7 +8,7 @@ leader, managing to optimize projects and good teamwork.</h4>
 - 🌱 I’m currently learning ... Python and R, React-Native.
 
 <h4> 📫 Contact me!</h4>
-<a href="https://www.linkedin.com/in/marianoalejandroceli/"><img  width="40px" heigth="40px" src="https://worldvectorlogo.com/es/logo/linkedin-icon-2"></a>
+<a href="https://www.linkedin.com/in/marianoalejandroceli/"><img  width="40px" heigth="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <a href="mailto: Marianoalejandroceli@gmail.com"><img  width="40px" heigth="40px" src="https://worldvectorlogo.com/es/logo/gmail-icon-2"></a>
 
 <h3>Languages</h3>
