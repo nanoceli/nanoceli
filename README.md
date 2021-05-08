@@ -30,7 +30,7 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>-- Supabase <img height="90" width="72" src="https://github.com/nanoceli/nanoceli/blob/main/images/supabase-logo-vector.svg"></p>
 
 <h3>Other Skills💪</h4>
-<p>-- GIT <img width="40px" heigth="40px" src=""> </p>
-<p>-- SCRUM <img width="40px" heigth="40px" src=""> </p>
-<p>-- Trello <img width="40px" heigth="40px" src=""> </p>
+<p>-- GIT <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/git-icon.svg"> </p>
+<p>-- SCRUM <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/scrum-1.svg"> </p>
+<p>-- Trello <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/trello.svg"> </p>
 
