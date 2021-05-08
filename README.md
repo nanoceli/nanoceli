@@ -13,7 +13,7 @@ leader, managing to optimize projects and good teamwork.</h4>
 
 <h3>Languages</h3>
 <h4>By Front-end ✨</h4>
-<p>-- JavaScript (ES6) <img alt="PostgreSQL" src="https://raw.githubusercontent.com/nanoceli/nanoceli/main/logos//postgresql.svg" height="60" width="48" ></p>
+<p>-- JavaScript (ES6) <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="60" width="48" ></p>
 <p>-- HTML5 <img width="40px" heigth="40px" src="nanoceli\images\html5.svg"></p>
 <p>-- CSS3 <img width="40px" heigth="40px" src="nanoceli\images\css-5.svg"></p>
 <p>-- React <img width="40px" heigth="40px" src="nanoceli\images\react-2.svg"></p>
