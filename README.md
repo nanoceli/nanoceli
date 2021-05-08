@@ -8,8 +8,8 @@ leader, managing to optimize projects and good teamwork.</h4>
 - 🌱 I’m currently learning ... Python and R, React-Native.
 
 <h3> 📫 Contact me!</h4>
-<a href="https://www.linkedin.com/in/marianoalejandroceli/"><img  height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/linkedin-icon-2.svg"></a>
-<a href="mailto: Marianoalejandroceli@gmail.com"><img   height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/mail-ios.svg"></a>
+<a href="https://www.linkedin.com/in/marianoalejandroceli/"><img  height="40" width="34" src="https://github.com/nanoceli/nanoceli/blob/main/images/linkedin-icon-2.svg"></a>
+<a href="mailto: Marianoalejandroceli@gmail.com"><img   height="40" width="34" src="https://github.com/nanoceli/nanoceli/blob/main/images/mail-ios.svg"></a>
 
 <h2>Languages</h3>
 <h3>By Front-end ✨</h4>
@@ -27,10 +27,10 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>-- Sequelize ORM <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/sequelize.svg"> </p>
 <p>-- Node.js <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/nodejs-icon.svg"></p>
 <p>-- Express.js <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/expressjs.svg">  </p>
-<p>-- Supabase <img height="90" width="72" src="https://github.com/nanoceli/nanoceli/blob/main/images/supabase-logo-vector.svg"></p>
+<p>-- Supabase <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/supabase-logo-vector.svg"></p>
 
 <h3>Other Skills💪</h4>
-<p>-- GIT <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/git-icon.svg"> </p>
-<p>-- SCRUM <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/scrum-1.svg"> </p>
-<p>-- Trello <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/trello.svg"> </p>
+<p>-- GIT <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/git-icon.svg"> </p>
+<p>-- SCRUM <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/scrum-1.svg"> </p>
+<p>-- Trello <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/trello.svg"> </p>
 
