@@ -13,14 +13,14 @@ leader, managing to optimize projects and good teamwork.</h4>
 
 <h3>Languages</h3>
 <h4>By Front-end ✨</h4>
-<p>-- JavaScript (ES6) <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="60" width="48" ></p>
-<p>-- HTML5 <img width="40px" heigth="40px" src="nanoceli\images\html5.svg"></p>
-<p>-- CSS3 <img width="40px" heigth="40px" src="nanoceli\images\css-5.svg"></p>
-<p>-- React <img width="40px" heigth="40px" src="nanoceli\images\react-2.svg"></p>
-<p>-- Redux <img width="40px" heigth="40px" src="nanoceli\images\redux.svg">  </p>
-<p>-- BootStrap <img width="40px" heigth="40px" src="nanoceli\images\bootstrap-4.svg"> </p>
-<p>-- SASS <img width="40px" heigth="40px" src="nanoceli\images\sass-1.svg"></p>
-<p>-- React Native <img width="40px" heigth="40px" src="nanoceli\images\react-native-app.svg"></p>
+<p>-- JavaScript (ES6) <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
+<p>-- HTML5 <img src="https://github.com/nanoceli/nanoceli/blob/main/images/html5.svg" height="30" width="24" ></p>
+<p>-- CSS3 <img src="https://github.com/nanoceli/nanoceli/blob/main/images/css-5.svg" height="30" width="24" ></p>
+<p>-- React <img src="https://github.com/nanoceli/nanoceli/blob/main/images/react-2.svg" height="30" width="24" ></p>
+<p>-- Redux <img src="https://github.com/nanoceli/nanoceli/blob/main/images/redux.svg" height="30" width="24" ></p>
+<p>-- BootStrap <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
+<p>-- SASS <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
+<p>-- React Native <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
 
 <h4>By Back-end ✨</h4>
 <p>-- PostgreSQL <img alt="PostgreSQL" src="https://github.com/nanoceli/nanoceli/blob/main/images/postgresql.svg" height="60" width="48" > </p>
