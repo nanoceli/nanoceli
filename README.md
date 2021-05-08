@@ -5,7 +5,11 @@
 effective learning. I feel comfortable working as a team or as a project
 leader, managing to optimize projects and good teamwork.</h4>
 
-- 🌱 I’m currently learning ... Python and R, React-Native.
+<h3- 🌱 I’m currently learning ... </h3>
+<p>React Native <img src="https://p.kindpng.com/picc/s/765-7652239_react-native-svg-logo-hd-png-download.png" height="30" width="24" ></p>
+<p>Phyton (ES6) <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
+<p>R (ES6) <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
+ Python and R, React-Native.
 
 <h3> 📫 Contact me!</h4>
 <a href="https://www.linkedin.com/in/marianoalejandroceli/"><img  height="40" width="34" src="https://github.com/nanoceli/nanoceli/blob/main/images/linkedin-icon-2.svg"></a>
