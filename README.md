@@ -18,17 +18,17 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>-- CSS3 <img src="https://github.com/nanoceli/nanoceli/blob/main/images/css-5.svg" height="30" width="24" ></p>
 <p>-- React <img src="https://github.com/nanoceli/nanoceli/blob/main/images/react-2.svg" height="30" width="24" ></p>
 <p>-- Redux <img src="https://github.com/nanoceli/nanoceli/blob/main/images/redux.svg" height="30" width="24" ></p>
-<p>-- BootStrap <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
-<p>-- SASS <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
-<p>-- React Native <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
+<p>-- BootStrap <img src="https://github.com/nanoceli/nanoceli/blob/main/images/bootstrap-4.svg" height="30" width="24" ></p>
+<p>-- SASS <img src="https://github.com/nanoceli/nanoceli/blob/main/images/sass-1.svg" height="30" width="24" ></p>
+<p>-- React Native <img src="https://github.com/nanoceli/nanoceli/blob/main/images/react-native-app.svg" height="30" width="24" ></p>
 
 <h4>By Back-end ✨</h4>
 <p>-- PostgreSQL <img alt="PostgreSQL" src="https://github.com/nanoceli/nanoceli/blob/main/images/postgresql.svg" height="60" width="48" > </p>
-<p>-- Sequelize ORM <img width="40px" heigth="40px" src="nanoceli\images\sequelize.svg"> </p>
-<p>-- Node.js <img width="40px" heigth="40px" src="nanoceli\images\nodejs-icon.svg"></p>
-<p>-- Express.js <img width="40px" heigth="40px" src="https://worldvectorlogo.com/es/logo/linkedin-icon-2">  </p>
+<p>-- Sequelize ORM <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/sequelize.svg"> </p>
+<p>-- Node.js <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/nodejs-icon.svg"></p>
+<p>-- Express.js <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/expressjs.svg">  </p>
 <p>-- GraphQL <img width="40px" heigth="40px" src=""></p>
-<p>-- Supabase <img width="40px" heigth="40px" src="https://avatars.githubusercontent.com/u/54469796"></p>
+<p>-- Supabase <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/supabase-logo-vector.svg"></p>
 
 <h4>Other Skills💪</h4>
 <p>-- GIT <img width="40px" heigth="40px" src=""> </p>
