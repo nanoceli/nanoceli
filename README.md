@@ -1,5 +1,5 @@
 <h2>
-<img width="20px" heigth="20px" src="nanoceli\images\Logo Mariano Celi.jpg">
+<img width="20px" heigth="20px" src="https://www.canva.com/design/DAEd5xuwcLQ/GK_y_2_z2G4hE-3LDhNEDw/view?utm_content=DAEd5xuwcLQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 </h2>
 <h4>I am a passionate developer of logic, with a capacity for self-taught and
 effective learning. I feel comfortable working as a team or as a project
@@ -13,7 +13,7 @@ leader, managing to optimize projects and good teamwork.</h4>
 
 <h3>Languages</h3>
 <h4>By Front-end ✨</h4>
-<p>-- JavaScript (ES6) <img  width="40px" heigth="40px" src="nanoceli\images\logo-javascript.svg"></p>
+<p>-- JavaScript (ES6) <img  width="40px" heigth="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></p>
 <p>-- HTML5 <img width="40px" heigth="40px" src="nanoceli\images\html5.svg"></p>
 <p>-- CSS3 <img width="40px" heigth="40px" src="nanoceli\images\css-5.svg"></p>
 <p>-- React <img width="40px" heigth="40px" src="nanoceli\images\react-2.svg"></p>
