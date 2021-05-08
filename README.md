@@ -5,10 +5,10 @@
 <h4> 📫 Contact me!</h4>
 <a href="https://www.linkedin.com/in/marianoalejandroceli/"><img src="nanoceli\images\logotipo-de-linkedin.svg"></a>
 <a href="mailto: Marianoalejandroceli@gmail.com"><img src="nanoceli\images\gmail-icon.svg"></a>
-<img width="100px" heigth="100px" style="max-width:100%" src="C:\Mariano\Proyectos\Profile\nanoceli\images\nodejs-icon.svg">
+
 <h3>Languages</h3>
 <h4>By Front-end ✨</h4>
-<p>-- JavaScript (ES6) <img width="100px" heigth="100px" style="max-width:100%" src="nanoceli\images\logo-javascript.svg"></p>
+<p><img width="20px" heigth="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>
 <p>-- HTML5 <img width="20px" heigth="20px" src="nanoceli\images\html5.svg"></p>
 <p>-- CSS3 <img width="20px" heigth="20px" src="nanoceli\images\css-5.svg"></p>
 <p>-- React <img width="20px" heigth="20px" src="nanoceli\images\react-2.svg"></p>
