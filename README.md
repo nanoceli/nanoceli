@@ -4,11 +4,11 @@
 
 <h4> 📫 Contact me!</h4>
 <a href="https://www.linkedin.com/in/marianoalejandroceli/"><img src="nanoceli\images\logotipo-de-linkedin.svg"></a>
-<a href="Marianoalejandroceli@gmail.com"><img src="nanoceli\images\gmail-icon.svg"></a>
+<a href="mailto: Marianoalejandroceli@gmail.com"><img src="nanoceli\images\gmail-icon.svg"></a>
 
 <h3>Languages</h3>
 <h4>By Front-end ✨</h4>
-<p>-- JavaScript (ES6) <img width="100px" heigth="100px" src="nanoceli\images\logo-javascript.svg"/></p>
+<p>-- JavaScript (ES6) <img width="100px" heigth="100px" style="max-width:100%" src="nanoceli\images\logo-javascript.svg"></p>
 <p>-- HTML5 <img width="20px" heigth="20px" src="nanoceli\images\html5.svg"></p>
 <p>-- CSS3 <img width="20px" heigth="20px" src="nanoceli\images\css-5.svg"></p>
 <p>-- React <img width="20px" heigth="20px" src="nanoceli\images\react-2.svg"></p>
