@@ -1,9 +1,9 @@
 <h2>
-<img src="nanoceli\images\Logo Mariano Celi.jpg">
+<img width="20px" heigth="20px" src="nanoceli\images\Logo Mariano Celi.jpg">
 </h2>
-<p>I am a passionate developer of logic, with a capacity for self-taught and
+<h4>I am a passionate developer of logic, with a capacity for self-taught and
 effective learning. I feel comfortable working as a team or as a project
-leader, managing to optimize projects and good teamwork.</p>
+leader, managing to optimize projects and good teamwork.</h4>
 
 - 🌱 I’m currently learning ... Python and R, React-Native.
 
