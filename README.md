@@ -7,11 +7,11 @@ leader, managing to optimize projects and good teamwork.</h4>
 
 - 🌱 I’m currently learning ... Python and R, React-Native.
 
-<h4> 📫 Contact me!</h4>
+<h3> 📫 Contact me!</h4>
 <a href="https://www.linkedin.com/in/marianoalejandroceli/"><img  height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/linkedin-icon-2.svg"></a>
 <a href="mailto: Marianoalejandroceli@gmail.com"><img   height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/mail-ios.svg"></a>
 
-<h3>Languages</h3>
+<h2>Languages</h3>
 <h4>By Front-end ✨</h4>
 <p>-- JavaScript (ES6) <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
 <p>-- HTML5 <img src="https://github.com/nanoceli/nanoceli/blob/main/images/html5.svg" height="30" width="24" ></p>
