@@ -1,5 +1,5 @@
 <h2>
-<img width="20px" heigth="20px" src="https://www.canva.com/design/DAEd5xuwcLQ/nGM_P-Ws6-zIQsFKEn327Q/edit">
+<img width="20px" heigth="20px" src="https://www.canva.com/design/DAEd5xuwcLQ/GK_y_2_z2G4hE-3LDhNEDw/view?utm_content=DAEd5xuwcLQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 </h2>
 <h4>I am a passionate developer of logic, with a capacity for self-taught and
 effective learning. I feel comfortable working as a team or as a project
