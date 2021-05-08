@@ -24,7 +24,7 @@ leader, managing to optimize projects and good teamwork.</p>
 <p>-- PostgreSQL <img width="40px" heigth="40px" src="nanoceli\images\postgresql.svg"> </p>
 <p>-- Sequelize ORM <img width="40px" heigth="40px" src="nanoceli\images\sequelize.svg"> </p>
 <p>-- Node.js <img width="40px" heigth="40px" src="nanoceli\images\nodejs-icon.svg"></p>
-<p>-- Express.js <img width="40px" heigth="40px" src="nanoceli\images\express-109.svg">  </p>
+<p>-- Express.js <img width="40px" heigth="40px" src="https://worldvectorlogo.com/es/logo/linkedin-icon-2">  </p>
 <p>-- GraphQL <img width="40px" heigth="40px" src=""></p>
 <p>-- Supabase <img width="40px" heigth="40px" src="https://avatars.githubusercontent.com/u/54469796"></p>
 
