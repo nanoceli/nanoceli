@@ -1,5 +1,5 @@
 <h2>
-<img width="100" heigth="3000" src="https://github.com/nanoceli/nanoceli/blob/main/images/Logo%20Mariano%20Celi.jpg">
+<img width="100" heigth="3" src="https://github.com/nanoceli/nanoceli/blob/main/images/Logo%20Mariano%20Celi.jpg">
 </h2>
 <h4>I am a passionate developer of logic, with a capacity for self-taught and
 effective learning. I feel comfortable working as a team or as a project
@@ -23,12 +23,12 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>-- React Native <img src="https://github.com/nanoceli/nanoceli/blob/main/images/react-native-app.svg" height="30" width="24" ></p>
 
 <h4>By Back-end ✨</h4>
-<p>-- PostgreSQL <img alt="PostgreSQL" src="https://github.com/nanoceli/nanoceli/blob/main/images/postgresql.svg" height="60" width="48" > </p>
-<p>-- Sequelize ORM <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/sequelize.svg"> </p>
-<p>-- Node.js <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/nodejs-icon.svg"></p>
-<p>-- Express.js <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/expressjs.svg">  </p>
-<p>-- GraphQL <img width="40px" heigth="40px" src=""></p>
-<p>-- Supabase <img width="40px" heigth="40px" src="https://github.com/nanoceli/nanoceli/blob/main/images/supabase-logo-vector.svg"></p>
+<p>-- PostgreSQL <img alt="PostgreSQL" src="https://github.com/nanoceli/nanoceli/blob/main/images/postgresql.svg" height="30" width="24" > </p>
+<p>-- Sequelize ORM <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/sequelize.svg"> </p>
+<p>-- Node.js <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/nodejs-icon.svg"></p>
+<p>-- Express.js <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/expressjs.svg">  </p>
+<p>-- GraphQL <img height="30" width="24" src=""></p>
+<p>-- Supabase <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/supabase-logo-vector.svg"></p>
 
 <h4>Other Skills💪</h4>
 <p>-- GIT <img width="40px" heigth="40px" src=""> </p>
