@@ -27,7 +27,7 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>-- React Native <img width="40px" heigth="40px" src="nanoceli\images\react-native-app.svg"></p>
 
 <h4>By Back-end ✨</h4>
-<p>-- PostgreSQL <img width="40px" heigth="40px" src="nanoceli\images\postgresql.svg"> </p>
+<p>-- PostgreSQL <img alt="PostgreSQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/postgresql.svg" height="60" width="48" > </p>
 <p>-- Sequelize ORM <img width="40px" heigth="40px" src="nanoceli\images\sequelize.svg"> </p>
 <p>-- Node.js <img width="40px" heigth="40px" src="nanoceli\images\nodejs-icon.svg"></p>
 <p>-- Express.js <img width="40px" heigth="40px" src="https://worldvectorlogo.com/es/logo/linkedin-icon-2">  </p>
