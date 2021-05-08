@@ -5,10 +5,10 @@
 effective learning. I feel comfortable working as a team or as a project
 leader, managing to optimize projects and good teamwork.</h4>
 
-<h3- 🌱 I’m currently learning ... </h3>
+<h3>- 🌱 I’m currently learning ... </h3>
 <p>React Native <img src="https://p.kindpng.com/picc/s/765-7652239_react-native-svg-logo-hd-png-download.png" height="30" width="24" ></p>
-<p>Phyton (ES6) <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
-<p>R (ES6) <img src="https://github.com/nanoceli/nanoceli/blob/main/images/logo-javascript.svg" height="30" width="24" ></p>
+<p>Phyton <img src="https://github.com/nanoceli/nanoceli/blob/main/images/python-5.svg" height="30" width="24" ></p>
+<p>R <img src="https://github.com/nanoceli/nanoceli/blob/main/images/r-lang.svg" height="30" width="24" ></p>
  Python and R, React-Native.
 
 <h3> 📫 Contact me!</h4>
