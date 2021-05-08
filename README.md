@@ -1,5 +1,5 @@
 <h2>
-<img width="30" heigth="40" src="https://github.com/nanoceli/nanoceli/blob/main/images/Logo%20Mariano%20Celi.jpg">
+<img width="100" heigth="200" src="https://github.com/nanoceli/nanoceli/blob/main/images/Logo%20Mariano%20Celi.jpg">
 </h2>
 <h4>I am a passionate developer of logic, with a capacity for self-taught and
 effective learning. I feel comfortable working as a team or as a project
