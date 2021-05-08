@@ -31,7 +31,7 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>-- Sequelize ORM <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/sequelize.svg"> </p>
 <p>-- Node.js <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/nodejs-icon.svg"></p>
 <p>-- Express.js <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/expressjs.svg">  </p>
-<p>-- Supabase <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/supabase-logo-vector.svg"></p>
+<p>-- Supabase <img height="30" width="24" src="https://marketplace-assets.digitalocean.com/logos/supabase-supabaserealtime-18-04.svg"></p>
 
 <h3>Other Skills💪</h4>
 <p>-- GIT <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/git-icon.svg"> </p>
