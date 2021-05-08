@@ -6,7 +6,7 @@
 
 <h3>Languages</h3>
 <h4>By Front-end ✨</h4>
-<p>-- JavaScript (ES6) </p><img width="40px" heigth="40px" src="nanoceli\images\logo-javascript.svg">
+<p>-- JavaScript (ES6) <img width="100px" heigth="100px" src="nanoceli\images\logo-javascript.svg"></p>
 <p>-- HTML5 <img width="20px" heigth="20px" src="nanoceli\images\html5.svg"></p>
 <p>-- CSS3 <img width="20px" heigth="20px" src="nanoceli\images\css-5.svg"></p>
 <p>-- React <img width="20px" heigth="20px" src="nanoceli\images\react-2.svg"></p>
