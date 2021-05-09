@@ -10,7 +10,7 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>Phyton <img src="https://github.com/nanoceli/nanoceli/blob/main/images/python-5.svg" height="30" width="24" ></p>
 <p>R <img src="https://github.com/nanoceli/nanoceli/blob/main/images/r-lang.svg" height="30" width="24" ></p>
  Python and R, React-Native.
-
+ <br/> <br/>
 <h3> 📫 Contact me!</h4>
 <a href="https://www.linkedin.com/in/marianoalejandroceli/"><img  height="40" width="34" src="https://github.com/nanoceli/nanoceli/blob/main/images/linkedin-icon-2.svg"></a>
 <a href="mailto: Marianoalejandroceli@gmail.com"><img   height="40" width="34" src="https://github.com/nanoceli/nanoceli/blob/main/images/mail-ios.svg"></a>
@@ -29,14 +29,14 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>-- BootStrap <img src="https://github.com/nanoceli/nanoceli/blob/main/images/bootstrap-4.svg" height="30" width="24" ></p>
 <p>-- SASS <img src="https://github.com/nanoceli/nanoceli/blob/main/images/sass-1.svg" height="30" width="24" ></p>
 <p>-- React Native <img src="https://github.com/nanoceli/nanoceli/blob/main/images/react-native-app.svg" height="30" width="24" ></p>
-
+ <br/>
 <h3>By Back-end ✨</h4>
 <p>-- PostgreSQL <img alt="PostgreSQL" src="https://github.com/nanoceli/nanoceli/blob/main/images/postgresql.svg" height="30" width="24" > </p>
 <p>-- Sequelize ORM <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/sequelize.svg"> </p>
 <p>-- Node.js <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/nodejs-icon.svg"></p>
 <p>-- Express.js <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/expressjs.svg">  </p>
 <p>-- Supabase <img height="30" width="24" src="https://marketplace-assets.digitalocean.com/logos/supabase-supabaserealtime-18-04.svg"></p>
-
+ <br/>
 <h3>Other Skills💪</h4>
 <p>-- GIT <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/git-icon.svg"> </p>
 <p>-- SCRUM <img height="30" width="24" src="https://github.com/nanoceli/nanoceli/blob/main/images/scrum-1.svg"> </p>
