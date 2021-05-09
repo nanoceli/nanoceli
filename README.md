@@ -10,7 +10,6 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>React Native <img src="https://p.kindpng.com/picc/s/765-7652239_react-native-svg-logo-hd-png-download.png" height="30" width="24" ></p>
 <p>Phyton <img src="https://github.com/nanoceli/nanoceli/blob/main/images/python-5.svg" height="30" width="24" ></p>
 <p>R <img src="https://github.com/nanoceli/nanoceli/blob/main/images/r-lang.svg" height="30" width="24" ></p>
- Python and R, React-Native.
  <br/> 
 <h3> 📫 Contact me!</h4>
 <a href="https://www.linkedin.com/in/marianoalejandroceli/"><img  height="40" width="34" src="https://github.com/nanoceli/nanoceli/blob/main/images/linkedin-icon-2.svg"></a>
