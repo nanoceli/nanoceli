@@ -12,7 +12,6 @@ leader, managing to optimize projects and good teamwork.</h4>
 <p>R <img src="https://github.com/nanoceli/nanoceli/blob/main/images/r-lang.svg" height="30" width="24" ></p>
  Python and R, React-Native.
  <br/> 
-
 <h3> 📫 Contact me!</h4>
 <a href="https://www.linkedin.com/in/marianoalejandroceli/"><img  height="40" width="34" src="https://github.com/nanoceli/nanoceli/blob/main/images/linkedin-icon-2.svg"></a>
 <a href="mailto: Marianoalejandroceli@gmail.com"><img   height="40" width="34" src="https://github.com/nanoceli/nanoceli/blob/main/images/mail-ios.svg"></a>
