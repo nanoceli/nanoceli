@@ -15,7 +15,7 @@ leader, managing to optimize projects and good teamwork.</h4>
 <a href="https://www.linkedin.com/in/marianoalejandroceli/"><img  height="40" width="34" src="https://github.com/nanoceli/nanoceli/blob/main/images/linkedin-icon-2.svg"></a>
 <a href="mailto: Marianoalejandroceli@gmail.com"><img   height="40" width="34" src="https://github.com/nanoceli/nanoceli/blob/main/images/mail-ios.svg"></a>
 
-<h3 style="color:red" >Here you can see my <h2>portoflio<h2> --><a href="https://nanoceli.github.io/"><img height="40" width="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portfolio.svg/1229px-Portfolio.svg.png"></a><h3>
+<h3 style="color:red" >Here you can see my <p>portoflio<p> --><a href="https://nanoceli.github.io/"><img height="40" width="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portfolio.svg/1229px-Portfolio.svg.png"></a><h3>
 <br/>
  <br/>
  <br/>
