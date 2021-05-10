@@ -1,8 +1,8 @@
 <h2>
 <img width="500" heigth="30" src="https://github.com/nanoceli/nanoceli/blob/main/images/presentacion.png">
 </h2>
-<h4>I am a passionate developer of logic, with a capacity for self-taught and
-effective learning. I feel comfortable working as a team or as a project
+<h4>I am a passionated developer of logic, with a capacity for self-taught and
+effective learning. I feel comfortable working as team work or as a project
 leader, managing to optimize projects and good teamwork.</h4>
  <br/> 
   
